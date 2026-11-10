@@ -8,8 +8,6 @@ What I enjoy most is owning something from the first idea to the point where peo
 
 ### What I work with
 
-### What I work with
-
 [![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nextjs,nodejs,postgres,supabase,docker,git,html,css,tailwind,wordpress,cs,dotnet,python&perline=9)](https://skillicons.dev)
 
 *Also: React Native, Expo, LangGraph, CrewAI, Model Context Protocol*
