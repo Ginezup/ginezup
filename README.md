@@ -10,13 +10,13 @@ What I enjoy most is owning something from the first idea to the point where peo
 
 ### What I work with
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nextjs,nodejs,postgres,supabase,docker,git,html,css,tailwind,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nextjs,nodejs,postgres,supabase,docker,git,html,css,tailwind,wordpress,cs,dotnet,python&perline=9)](https://skillicons.dev)
 
 *Also: React Native, Expo, LangGraph, CrewAI, Model Context Protocol*
 
 ### Recently
 
-- **IKONS** · built a financial planning tool for advisers in React and TypeScript, from analysis through to production. Also worked on their mobile app in React Native with Expo.
+- **IKONS FREELANCE** · built a financial planning tool for advisers in React and TypeScript, from analysis through to production. Also worked on their mobile app in React Native with Expo.
 - **ConcisNetwork** · ran my own company for eighteen months, delivering and supporting web apps for small businesses
 - **Oog voor Detail** · built a catalogue application in React, in daily use at a law firm since May 2026
 
